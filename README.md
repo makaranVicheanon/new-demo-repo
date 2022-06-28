@@ -1,2 +1,1 @@
-# new-demo-repo
 Nice
